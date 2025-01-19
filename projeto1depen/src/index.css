@@ -1,0 +1,13 @@
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #f0f0f0;
+}
+
+.joinha {
+  position: absolute;
+  cursor: pointer;
+}
